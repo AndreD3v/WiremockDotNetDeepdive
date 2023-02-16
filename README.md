@@ -1,5 +1,5 @@
 # WireMock.NET workshop
-This project contains the .Net content of the workshop 'Wirmock for Java and .Net' hosted by **Newspark** in March 2023. 
+This project contains the .Net content of the workshop 'Wirmock for Java and .Net' hosted by **Newspark** on the 29th of March 2023. 
 
 ## Background and credits
 This project is for the biggest part based on two existing GitHub projects from Bas Dijkstra:
