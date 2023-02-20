@@ -16,5 +16,5 @@ But in the end I finished it after the update done by Bas. So this final product
 
 **Besides:**
 * I use my favorite FluentAssertions library to do the assertions, used for testing if the mocks work correctly (while Bas was using the plain Nunit framework);
-* I add an Swagger Pet store example (partly created by AI software :D), to easily  see/show how a mock can easily replace an existing 'real' API;
+* I add a Swagger Pet store example (partly created by AI software :D), to easily  see/show how a mock can easily replace an existing 'real' API;
 * Add an exercise7, for people who like to do a bigger challenge (this exercise originated from a real world case in one of my own job assignments, whit some small adjustments. I kept this exercise in place to show how flexible the library can be used).
